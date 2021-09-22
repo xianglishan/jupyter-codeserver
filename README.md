@@ -27,7 +27,7 @@ enter password "pass"
 ![Imgur](https://i.imgur.com/Hg2VLon.jpg)
 
 
-jupyterLb
+jupyterLab
 ---
 
 use ssh port forward
