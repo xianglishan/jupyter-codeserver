@@ -2,6 +2,8 @@
 
 this is note of set up my matapad10.4 for fun.
 
+i use Azure VM as server and access from browser.
+
 ```
 git clone https://github.com/xianglishan/jupyter-codeserver.git
 ```
@@ -36,5 +38,6 @@ jupyterLab :http://127.0.0.1{or localhost}:8888/
 
 ![Imgur](https://i.imgur.com/hdztqCU.jpg)
 
+---
 
 host files "work" are mounted
