@@ -20,7 +20,9 @@ docker-compose up -d --build
 code-server
 ---
 
-code-server:http://{ip address}:8080/
+code-server:http\://{ip address}:8080/
+
+enter password "pass"
 
 ![Imgur](https://i.imgur.com/Hg2VLon.jpg)
 
@@ -34,7 +36,7 @@ use ssh port forward
 ssh -i {public key} -L 8888:localhost:8888 {username}@{ip address}
 ```
 
-jupyterLab :http://127.0.0.1{or localhost}:8888/
+jupyterLab :http:\//127.0.0.1{or localhost}:8888/
 
 ![Imgur](https://i.imgur.com/hdztqCU.jpg)
 
