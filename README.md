@@ -48,10 +48,18 @@ host files "work" are mounted
 references
 ---
 
+mebee docker composeで「code-server」を構築する
+
 https://mebee.info/2021/05/06/post-33147/
+
+Qiita 【Docker】3分でjupyterLab(python)環境を作る！
 
 https://qiita.com/hgaiji/items/edf71435d0565257f980
 
+dockerhub jupyter/datascience-notebook
+
 https://hub.docker.com/r/jupyter/datascience-notebook/
+
+dockerhub codercom/code-server
 
 https://hub.docker.com/r/codercom/code-server
