@@ -5,7 +5,7 @@ this is note of set up my matapad10.4 for fun.
 i use Azure VM as server and access from browser.
 
 ```
-git clone https://github.com/xianglishan/jupyter-codeserver.git
+git clone https://github.com/xianglishan/jupyter-codeserver
 ```
 
 if you use password for code-server, please edit PASSWORD in dockercompose.yml
