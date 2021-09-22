@@ -36,7 +36,7 @@ use ssh port forward
 ssh -i {public key} -L 8888:localhost:8888 {username}@{ip address}
 ```
 
-jupyterLab :http:\//127.0.0.1{or localhost}:8888/
+jupyterLab :http\://127.0.0.1{or localhost}:8888/
 
 ![Imgur](https://i.imgur.com/hdztqCU.jpg)
 
