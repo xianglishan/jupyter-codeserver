@@ -43,3 +43,16 @@ jupyterLab :http\://127.0.0.1{or localhost}:8888/
 ---
 
 host files "work" are mounted
+
+
+
+---
+references
+
+https://mebee.info/2021/05/06/post-33147/
+
+https://qiita.com/hgaiji/items/edf71435d0565257f980
+
+https://hub.docker.com/r/jupyter/datascience-notebook/
+
+https://hub.docker.com/r/codercom/code-server
