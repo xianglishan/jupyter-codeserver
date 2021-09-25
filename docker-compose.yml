@@ -8,6 +8,8 @@ services:
       - JUPYTER_ENABLE_LAB=yes
     volumes:
       - ./work:/home/jovyan/work
+      - ./.ssh:/home/jovyan/.ssh
+      - ./.gitconfig:/home/jovyan/.gitconfig
     command: start-notebook.sh --NotebookApp.token=''
 
   code:
@@ -18,3 +20,5 @@ services:
       PASSWORD: "pass"
     volumes:
       - ./work:/home/work
+      - ./.ssh:/home/coder/.ssh
+      - ./.gitconfig:/home/coder/.gitconfig
